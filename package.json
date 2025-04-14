@@ -1,0 +1,24 @@
+{
+  "name": "horizon",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate-index": "node scripts/generateIndex.js",
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d public -r https://github.com/KoMoriSam/theHorizon.git",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "gh-pages": "^6.3.0",
+    "js-yaml": "^4.1.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
