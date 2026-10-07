@@ -1,0 +1,177 @@
+{
+  "0": {
+    "volumeInfo": {
+      "uuid": "6f71a138-0301-4ba3-a6a6-2a50d8c3badf",
+      "title": "正文之前"
+    },
+    "chapters": [
+      {
+        "title": "自序",
+        "path": "0/1 自序.md",
+        "uuid": "7d5e9b50-a9cb-428a-9264-903046354e22",
+        "routeCode": "TmSZ6v",
+        "uploadDate": "2023-07-22T16:01:05.000Z",
+        "modifiedDate": "2026-07-17T20:58:53.000Z",
+        "length": 532
+      },
+      {
+        "title": "楔子",
+        "path": "0/2 楔子.md",
+        "uuid": "6ddfb087-072a-4b15-9676-12138b3317eb",
+        "routeCode": "K3HMJw",
+        "uploadDate": "2025-01-26T23:10:05.000Z",
+        "modifiedDate": "2026-07-17T21:33:52.000Z",
+        "length": 2396
+      }
+    ]
+  },
+  "1": {
+    "volumeInfo": {
+      "uuid": "cf57b6e6-44dd-4e9b-a433-91df405c88c7",
+      "title": "第一卷 远方不远。"
+    },
+    "chapters": [
+      {
+        "title": "第一章 院里的孩子",
+        "path": "1/1 院里的孩子.md",
+        "uuid": "d481cfb5-a965-4fc2-bb49-943f6476592e",
+        "routeCode": "7vy1LO",
+        "uploadDate": "2025-01-23T15:56:30.000Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 2200
+      },
+      {
+        "title": "第二章 窗外的自由",
+        "path": "1/2 窗外的自由.md",
+        "uuid": "85af3d9f-56d3-43f4-b880-2e5fe48faf45",
+        "routeCode": "HR5XQx",
+        "uploadDate": "2025-10-27T07:49:24.000Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 2297
+      },
+      {
+        "title": "第三章 舞台上的注视",
+        "path": "1/3 舞台上的注视.md",
+        "uuid": "81d85378-fd5e-4dcb-abaf-23616298cb40",
+        "routeCode": "0iqQuv",
+        "uploadDate": "2025-11-09T20:53:18.000Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 1928
+      },
+      {
+        "title": "第四章 朦胧的大雨",
+        "path": "1/4 朦胧的大雨.md",
+        "uuid": "d5edf914-9d0f-427a-8967-da004f93afa6",
+        "routeCode": "iQEBGi",
+        "uploadDate": "2025-11-09T21:24:50.000Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 2242
+      },
+      {
+        "title": "第五章 奶奶",
+        "path": "1/5 奶奶.md",
+        "uuid": "268dd5f4-f189-4053-a8da-de61063182a1",
+        "routeCode": "0U6oBp",
+        "uploadDate": "2026-07-17T23:21:43.997Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 3024
+      },
+      {
+        "title": "第六章 福娃跳跳跳",
+        "path": "1/6 福娃跳跳跳.md",
+        "uuid": "a40d51d5-3962-46bb-8ad6-a7a95b56481c",
+        "routeCode": "qy9rq2",
+        "uploadDate": "2026-07-18T11:45:42.874Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 3126
+      },
+      {
+        "title": "第七章 我会穿衣服",
+        "path": "1/7 我会穿衣服.md",
+        "uuid": "d5b169de-5220-4783-9592-9f145a0d6ae8",
+        "routeCode": "c1iE28",
+        "uploadDate": "2026-07-17T23:21:43.997Z",
+        "modifiedDate": "2026-07-19T17:36:27.000Z",
+        "length": 2713
+      }
+    ]
+  },
+  "2": {
+    "volumeInfo": {
+      "uuid": "ede9e13a-b2c7-4bef-bfca-77b2077be403",
+      "title": "第二卷 “繁星即为远方”"
+    },
+    "chapters": [
+      {
+        "title": "番外 远洛的小说",
+        "path": "2/番外 远洛的小说.md",
+        "uuid": "d7ae6096-7e19-4ea1-ae3a-9c8c69042694",
+        "routeCode": "hmDz3u",
+        "uploadDate": "2025-01-29T16:23:01.189Z",
+        "length": 3716
+      },
+      {
+        "title": "结 无忧无虑",
+        "path": "2/第 2 结 无忧无虑.md",
+        "uuid": "2a00c22c-b6d5-4349-bdc5-0fabdd5ed4f4",
+        "routeCode": "n130ML",
+        "uploadDate": "2025-02-05T08:12:03.408Z",
+        "length": 396
+      }
+    ]
+  },
+  "3": {
+    "volumeInfo": {
+      "uuid": "26084354-5e27-421b-b552-aa7547c8b244",
+      "title": "第三卷 向远方的远方！"
+    },
+    "chapters": [
+      {
+        "title": "结 一切都好",
+        "path": "3/第 3 结 一切都好.md",
+        "uuid": "4e3587f4-1742-43fc-885a-1b97d4b76e0a",
+        "routeCode": "o5G2JX",
+        "uploadDate": "2025-02-05T15:09:01.020Z",
+        "length": 593
+      }
+    ]
+  },
+  "4": {
+    "volumeInfo": {
+      "uuid": "46894c31-d687-4e16-bc1d-0b3cf020a4e2",
+      "title": "第四卷 林海淹没的远方……"
+    },
+    "chapters": []
+  },
+  "5": {
+    "volumeInfo": {
+      "uuid": "3017b619-de06-4df9-ace7-143e7a802b9d",
+      "title": "第五卷 那里是远方？"
+    },
+    "chapters": [
+      {
+        "title": "第一章 高考后的日子",
+        "path": "5/1 高考后的日子.md",
+        "uuid": "c86ceb97-d5a7-41e0-be5b-82c32e5cb645",
+        "routeCode": "NS6hvt",
+        "uploadDate": "2025-02-05T17:56:50.022Z",
+        "length": 2498
+      },
+      {
+        "title": "第二章 蝉蜕时分",
+        "path": "5/2 蝉蜕时分.md",
+        "uuid": "82f4da96-a75f-4162-bb41-d34aa5fc61bc",
+        "routeCode": "FlV6YW",
+        "uploadDate": "2025-03-27T20:02:40.110Z",
+        "length": 3510
+      }
+    ]
+  },
+  "6": {
+    "volumeInfo": {
+      "uuid": "4cfd29ac-5aeb-480f-9431-c0b9403c7a04",
+      "title": "第六卷 此处为远方。"
+    },
+    "chapters": []
+  }
+}

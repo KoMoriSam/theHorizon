@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "images": {
+    "covers/theHorizon.webp": {
+      "width": 2480,
+      "height": 3508,
+      "revision": "cc9eb984f2ed73a22a83",
+      "variants": [
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-64.webp",
+          "width": 64,
+          "height": 91
+        },
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-128.webp",
+          "width": 128,
+          "height": 181
+        },
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-320.webp",
+          "width": 320,
+          "height": 453
+        },
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-640.webp",
+          "width": 640,
+          "height": 905
+        },
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-960.webp",
+          "width": 960,
+          "height": 1358
+        },
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-1440.webp",
+          "width": 1440,
+          "height": 2037
+        },
+        {
+          "src": "_optimized/cc9eb984f2ed73a22a83-1920.webp",
+          "width": 1920,
+          "height": 2716
+        }
+      ]
+    },
+    "emotes/chin-in-hand.webp": {
+      "width": 96,
+      "height": 96,
+      "revision": "cc8448777328f5accdcf",
+      "variants": [
+        {
+          "src": "_optimized/cc8448777328f5accdcf-64.webp",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "_optimized/cc8448777328f5accdcf-96.webp",
+          "width": 96,
+          "height": 96
+        }
+      ]
+    },
+    "emotes/crossed-arms.webp": {
+      "width": 300,
+      "height": 242,
+      "revision": "5660607b9d99575eef60",
+      "variants": [
+        {
+          "src": "_optimized/5660607b9d99575eef60-64.webp",
+          "width": 64,
+          "height": 52
+        },
+        {
+          "src": "_optimized/5660607b9d99575eef60-128.webp",
+          "width": 128,
+          "height": 103
+        },
+        {
+          "src": "_optimized/5660607b9d99575eef60-300.webp",
+          "width": 300,
+          "height": 242
+        }
+      ]
+    },
+    "emotes/minion-lol.webp": {
+      "width": 192,
+      "height": 96,
+      "revision": "acf7e959531e9a35adc0",
+      "variants": [
+        {
+          "src": "_optimized/acf7e959531e9a35adc0-64.webp",
+          "width": 64,
+          "height": 32
+        },
+        {
+          "src": "_optimized/acf7e959531e9a35adc0-128.webp",
+          "width": 128,
+          "height": 64
+        },
+        {
+          "src": "emotes/minion-lol.webp",
+          "width": 192,
+          "height": 96
+        }
+      ]
+    },
+    "emotes/penshui.webp": {
+      "width": 70,
+      "height": 109,
+      "revision": "75c1c3494fa0aff07ec8",
+      "variants": [
+        {
+          "src": "_optimized/75c1c3494fa0aff07ec8-64.webp",
+          "width": 64,
+          "height": 100
+        },
+        {
+          "src": "emotes/penshui.webp",
+          "width": 70,
+          "height": 109
+        }
+      ]
+    },
+    "emotes/shulker.webp": {
+      "width": 300,
+      "height": 300,
+      "revision": "a91a2ced30d43ba53e35",
+      "variants": [
+        {
+          "src": "_optimized/a91a2ced30d43ba53e35-64.webp",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "_optimized/a91a2ced30d43ba53e35-128.webp",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "src": "emotes/shulker.webp",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    "emotes/tang1.webp": {
+      "width": 828,
+      "height": 816,
+      "revision": "ed4921797b350f26eb10",
+      "variants": [
+        {
+          "src": "_optimized/ed4921797b350f26eb10-64.webp",
+          "width": 64,
+          "height": 63
+        },
+        {
+          "src": "_optimized/ed4921797b350f26eb10-128.webp",
+          "width": 128,
+          "height": 126
+        },
+        {
+          "src": "_optimized/ed4921797b350f26eb10-320.webp",
+          "width": 320,
+          "height": 315
+        },
+        {
+          "src": "_optimized/ed4921797b350f26eb10-640.webp",
+          "width": 640,
+          "height": 631
+        },
+        {
+          "src": "_optimized/ed4921797b350f26eb10-828.webp",
+          "width": 828,
+          "height": 816
+        }
+      ]
+    },
+    "emotes/tieba-tea.webp": {
+      "width": 960,
+      "height": 960,
+      "revision": "558f7eecaaf5876fdb45",
+      "variants": [
+        {
+          "src": "_optimized/558f7eecaaf5876fdb45-64.webp",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "_optimized/558f7eecaaf5876fdb45-128.webp",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "src": "_optimized/558f7eecaaf5876fdb45-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "src": "_optimized/558f7eecaaf5876fdb45-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "emotes/tieba-tea.webp",
+          "width": 960,
+          "height": 960
+        }
+      ]
+    },
+    "emotes/tpbiti.webp": {
+      "width": 250,
+      "height": 250,
+      "revision": "2e741e00fe74197fe800",
+      "variants": [
+        {
+          "src": "_optimized/2e741e00fe74197fe800-64.webp",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "_optimized/2e741e00fe74197fe800-128.webp",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "src": "_optimized/2e741e00fe74197fe800-250.webp",
+          "width": 250,
+          "height": 250
+        }
+      ]
+    },
+    "emotes/zhenjing.webp": {
+      "width": 1080,
+      "height": 1072,
+      "revision": "60596bac6b0a8dd7336a",
+      "variants": [
+        {
+          "src": "_optimized/60596bac6b0a8dd7336a-64.webp",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "_optimized/60596bac6b0a8dd7336a-128.webp",
+          "width": 128,
+          "height": 127
+        },
+        {
+          "src": "_optimized/60596bac6b0a8dd7336a-320.webp",
+          "width": 320,
+          "height": 318
+        },
+        {
+          "src": "_optimized/60596bac6b0a8dd7336a-640.webp",
+          "width": 640,
+          "height": 635
+        },
+        {
+          "src": "_optimized/60596bac6b0a8dd7336a-960.webp",
+          "width": 960,
+          "height": 953
+        },
+        {
+          "src": "emotes/zhenjing.webp",
+          "width": 1080,
+          "height": 1072
+        }
+      ]
+    }
+  }
+}
